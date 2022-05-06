@@ -1,0 +1,11 @@
+Id,priority,NCommentT,NActor,LabelsT,meanCommentSize,ticketCleanedBodyLen,nticketsByCreatorOpen,nClosedticketsByCreatorOpen,nCommentsByCreator,NCommentByActorsT,NticketsCreatedInProject,NticketsCreatedInProjectT,NticketsCreatedInProjectClosed,NticketsCreatedInProjectClosedT,NActivityInProject,NActivityInProjectT,ResolvedDay,ClosedDay
+0,P2,3,5,8,19,107,102,68,428,18,139,43,136,40,3605,1057,12,12
+1,P2,1,5,12,18,45,60,46,76,50,139,43,136,40,3605,1057,12,12
+2,P2,3,4,1,19,37,0,0,0,0,33,1,31,1,782,49,22,26
+3,P2,8,9,0,28.875,99,13,11,0,0,18,8,18,8,464,232,19,19
+4,P2,5,6,0,69.8,163,9,9,64,97,16,7,16,7,396,183,14,16
+5,P2,10,7,14,45.5,114,1,1,9,389,142,45,139,42,3718,1118,15,15
+6,P2,5,5,0,70.4,194,0,0,0,0,16,7,16,7,396,183,21,21
+7,P2,1,4,14,7,82,1,1,9,365,140,42,138,40,3681,1065,14,14
+8,P2,4,5,0,26.5,92,9,9,64,87,13,4,13,4,304,91,15,17
+9,P2,6,5,11,75.5,197,1,0,182,12,15,5,14,5,478,162,20,20
